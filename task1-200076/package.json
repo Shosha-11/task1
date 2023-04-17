@@ -1,11 +1,11 @@
 {
-  "name": "node_js-elbatanouni",
+  "name": "examplenode",
   "type": "module",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "\"# node_js_task\" \r \"# node_js_task\" \r \"# node_js_task\" \r \"# Node_js_task1\"",
+  "main": "app.js",
   "scripts": {
-    "start": "nodemon test1.js"
+    "start": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
